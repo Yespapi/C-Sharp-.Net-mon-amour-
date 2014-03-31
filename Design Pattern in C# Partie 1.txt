@@ -1,0 +1,6 @@
+﻿The advantage of using Singleton is listed below:
+ Instance Reuse makes Effective Memory Management
+ File Locking Overheads are Avoided
+The limitations of Singleton are listed below:
+ Making Constructor as Private impose Restrictions
+ More Overheads in Multi-threaded usage (But Thread Safe in .Net)
