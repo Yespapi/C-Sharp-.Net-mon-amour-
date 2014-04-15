@@ -8,5 +8,5 @@ mots: cl�s data context.
 5.pacakage: System.Data.Entity & System.Data.Entity.Insfrastructure
 6.make ScaffolAllTables = true;
 7.to the admin panels add a new roles
-8.attacher � chaque utilisateur son type de role: remaqrue user a le role admin; customer le role  user, et 
+8.attacher � chaque utilisateur son type de role: remarque user a le role admin; customer le role  user, et 
 manager le role manager(faut corriger �a les gars).
