@@ -9,8 +9,8 @@ namespace Demos
         [TestMethod]
         public void ExampleWhereTypeUsesValueEqualitySematics()
         {
-            var a = new Uri("http://pluralsight.com");
-            var b = new Uri("http://pluralsight.com");            
+            var a = new Uri("http://çàfaitpub.com");
+            var b = new Uri("http://çàfaitpub.com");            
             
             var isEqual = a == b;
 
